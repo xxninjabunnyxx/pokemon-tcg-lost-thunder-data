@@ -1,0 +1,82 @@
+---
+id: sm8-154
+name: Ditto ◇
+supertype: Pokémon
+subtypes:
+- Basic
+- Prism Star
+hp: '40'
+types:
+- Colorless
+rules:
+- "◇ (Prism Star) Rule: You can't have more than 1 ◇ card with the same name in your
+  deck. If a ◇ card would go to the discard pile, put it in the Lost Zone instead."
+abilities:
+- name: Almighty Evolution
+  text: Once during your turn (before your attack), you may put any Stage 1 card from
+    your hand onto this Pokémon to evolve it. You can't use this Ability during your
+    first turn or the turn this Pokémon was put into play.
+  type: Ability
+weaknesses:
+- type: Fighting
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: sm8
+  name: Lost Thunder
+  series: Sun & Moon
+  printedTotal: 214
+  total: 240
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: LOT
+  releaseDate: 2018/11/02
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/sm8/symbol.png
+    logo: https://images.pokemontcg.io/sm8/logo.png
+number: '154'
+artist: kirisAki
+rarity: Rare Prism Star
+flavorText: With its astonishing capacity for metamorphosis, it can get along with
+  anything. It does not get along well with its fellow Ditto.
+nationalPokedexNumbers:
+- 132
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/sm8/154.png
+  large: https://images.pokemontcg.io/sm8/154_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/sm8-154
+  updatedAt: 2023/09/15
+  prices:
+    holofoil:
+      low: 2.4
+      mid: 3.19
+      high: 11.0
+      market: 3.19
+      directLow: 3.59
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/sm8-154
+  updatedAt: 2023/09/15
+  prices:
+    averageSellPrice: 3.05
+    lowPrice: 0.4
+    trendPrice: 2.84
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 1.99
+    reverseHoloLow: 2.25
+    reverseHoloTrend: 1.82
+    lowPriceExPlus: 1.4
+    avg1: 2.6
+    avg7: 2.89
+    avg30: 2.68
+    reverseHoloAvg1: 1.99
+    reverseHoloAvg7: 2.47
+    reverseHoloAvg30: 3.13

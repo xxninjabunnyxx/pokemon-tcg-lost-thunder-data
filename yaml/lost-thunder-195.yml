@@ -1,0 +1,94 @@
+---
+id: sm8-195
+name: Shuckle-GX
+supertype: Pokémon
+subtypes:
+- Basic
+- GX
+hp: '170'
+types:
+- Grass
+rules:
+- 'Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize
+  cards.'
+abilities:
+- name: Protective Shell
+  text: Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon
+    that have 2 or fewer Energy attached to them.
+  type: Ability
+attacks:
+- name: Triple Poison
+  cost:
+  - Colorless
+  convertedEnergyCost: 1
+  damage: ''
+  text: Your opponent's Active Pokémon is now Poisoned. Put 3 damage counters instead
+    of 1 on that Pokémon between turns.
+- name: Wrap-GX
+  cost:
+  - Colorless
+  convertedEnergyCost: 1
+  damage: '40'
+  text: Your opponent's Active Pokémon is now Paralyzed. (You can't use more than
+    1 GX attack in a game.)
+weaknesses:
+- type: Fire
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: sm8
+  name: Lost Thunder
+  series: Sun & Moon
+  printedTotal: 214
+  total: 240
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: LOT
+  releaseDate: 2018/11/02
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/sm8/symbol.png
+    logo: https://images.pokemontcg.io/sm8/logo.png
+number: '195'
+artist: 5ban Graphics
+rarity: Rare Ultra
+nationalPokedexNumbers:
+- 213
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/sm8/195.png
+  large: https://images.pokemontcg.io/sm8/195_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/sm8-195
+  updatedAt: 2023/09/15
+  prices:
+    holofoil:
+      low: 4.0
+      mid: 5.67
+      high: 6.56
+      market: 5.65
+      directLow: 5.99
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/sm8-195
+  updatedAt: 2023/09/15
+  prices:
+    averageSellPrice: 6.84
+    lowPrice: 3.9
+    trendPrice: 7.32
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 8.05
+    lowPriceExPlus: 4.5
+    avg1: 7.95
+    avg7: 7.66
+    avg30: 7.39
+    reverseHoloAvg1: 10.0
+    reverseHoloAvg7: 6.65
+    reverseHoloAvg30: 5.11

@@ -1,0 +1,101 @@
+---
+id: sm8-127
+name: Dialga
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '130'
+types:
+- Metal
+attacks:
+- name: Turn Back Time
+  cost:
+  - Metal
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '60'
+  text: If your opponent's Active Pokémon is an evolved Pokémon, devolve it by putting
+    the highest Stage Evolution card on it into your opponent's hand.
+- name: Power Blast
+  cost:
+  - Metal
+  - Metal
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 4
+  damage: '130'
+  text: Discard an Energy from this Pokémon.
+weaknesses:
+- type: Fire
+  value: "×2"
+resistances:
+- type: Psychic
+  value: "-20"
+retreatCost:
+- Colorless
+- Colorless
+convertedRetreatCost: 2
+set:
+  id: sm8
+  name: Lost Thunder
+  series: Sun & Moon
+  printedTotal: 214
+  total: 240
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: LOT
+  releaseDate: 2018/11/02
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/sm8/symbol.png
+    logo: https://images.pokemontcg.io/sm8/logo.png
+number: '127'
+artist: nagimiso
+rarity: Rare Holo
+flavorText: It has the power to control time. It appears in Sinnoh-region myths as
+  an ancient deity.
+nationalPokedexNumbers:
+- 483
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/sm8/127.png
+  large: https://images.pokemontcg.io/sm8/127_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/sm8-127
+  updatedAt: 2023/09/15
+  prices:
+    reverseHolofoil:
+      low: 0.45
+      mid: 0.89
+      high: 1.95
+      market: 0.84
+      directLow: 0.74
+    holofoil:
+      low: 0.25
+      mid: 0.65
+      high: 2.99
+      market: 0.64
+      directLow: 0.5
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/sm8-127
+  updatedAt: 2023/09/15
+  prices:
+    averageSellPrice: 1.24
+    lowPrice: 0.1
+    trendPrice: 0.96
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 2.99
+    reverseHoloLow: 0.1
+    reverseHoloTrend: 2.11
+    lowPriceExPlus: 0.45
+    avg1: 0.7
+    avg7: 1.14
+    avg30: 1.36
+    reverseHoloAvg1: 2.99
+    reverseHoloAvg7: 2.12
+    reverseHoloAvg30: 1.92
